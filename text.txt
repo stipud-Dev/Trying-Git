@@ -1,0 +1,5 @@
+git init
+'You just created your first git repository!'
+
+A README.md file that describes the repository (recommended for all repositories):
+
